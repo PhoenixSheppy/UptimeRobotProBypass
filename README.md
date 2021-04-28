@@ -2,12 +2,12 @@
 
 ### See this right here?
 
-![Image of paywall](http://url/to/img.png)
+![Image of paywall](https://github.com/PhoenixSheppy/UptimeRobotProBypass/blob/main/img/pro-requirement-sc.png?raw=true)
 
 ### *NOPE!* Thanks to Github Sites and the magic of <iFrame> tags, say no more!
 
-![Image of iFrame](http://google.com/potato.png)
+![Image of iFrame](https://raw.githubusercontent.com/PhoenixSheppy/UptimeRobotProBypass/main/img/iframe-lol.png)
 
 ### Voila!
 
-![Image of final product](http://pleasestop.com/now.png)
+![Image of final product](https://raw.githubusercontent.com/PhoenixSheppy/UptimeRobotProBypass/main/img/final-product.png)
